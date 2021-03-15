@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+    background-color: #EDEDED;
+    border-bottom: 2px solid #D49B2C;
+}
+
+#copyright {
+    font-size: 14px;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    border-top: 2px solid #D49B2C;
+}
+
+.color-orange {
+    color: #D69D38;
+}
+
+h3 {
+    font-style: italic;
+}
+
